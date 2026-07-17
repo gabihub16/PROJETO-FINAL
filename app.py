@@ -27,7 +27,7 @@ def inicio():
         "Resposta":"API online, Flask rodando corretamente"
        
         })
-   
+   #oi gabizinha linda, testando a copy :)
 @app.route("/prever",methods=["POST"])
 def prever():
     try:
