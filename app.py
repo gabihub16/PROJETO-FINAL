@@ -24,7 +24,7 @@ modelo.fit(X,y)
 def inicio():
     return jsonify({
        
-        "Resposta":"API online, Flask rodando corretamente"
+        "Resposta":"API online, Flask rodando forma certa"
        
         })
    
