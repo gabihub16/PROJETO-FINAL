@@ -17,7 +17,7 @@ O objetivo principal do projeto é disponibilizar uma ferramenta prática e aces
 
 - API principal: [https://projeto-final-gljd.onrender.com](https://projeto-final-gljd.onrender.com)
 - Endpoint de previsão: [https://projeto-final-gljd.onrender.com/prever](https://projeto-final-gljd.onrender.com/prever)
-- Site: [https://drive-value-pro.lovable.app/](https://drive-value-pro.lovable.app/)
+- Site: [https://ride-worth-wizard.lovable.app/] (https://ride-worth-wizard.lovable.app/)
 
 ## ⚙️ Como funciona ⚙️
 
